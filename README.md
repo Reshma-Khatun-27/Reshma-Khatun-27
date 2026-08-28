@@ -58,12 +58,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reshma-Khatun-27&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Reshma-Khatun-27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Reshma-Khatun-27&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Reshma-Khatun-27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" width="48%" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshma-Khatun-27&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Reshma-Khatun-27&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" width="55%" />
 
 </div>
 
