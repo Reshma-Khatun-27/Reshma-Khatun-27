@@ -65,6 +65,12 @@
 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Reshma-Khatun-27&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" height="150" />
 
+  <br /><br />
+
+  <a href="https://github.com/Reshma-Khatun-27">
+    <img src="https://ghchart.rshah.org/6c5ce7/Reshma-Khatun-27" alt="Reshma's GitHub Contribution Calendar" width="100%" />
+  </a>
+
 </div>
 
 ---
