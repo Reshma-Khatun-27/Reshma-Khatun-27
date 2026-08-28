@@ -68,7 +68,7 @@
   <br /><br />
 
   <a href="https://github.com/Reshma-Khatun-27">
-    <img src="https://ghchart.rshah.org/6c5ce7/Reshma-Khatun-27" alt="Reshma's GitHub Contribution Calendar" width="100%" />
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Reshma's 3D Contribution Graph" width="100%" />
   </a>
 
 </div>
